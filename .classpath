@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/jupiter v5.6.0/junit-jupiter-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/jupiter v5.6.0/junit-jupiter-api-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/jupiter v5.6.0/junit-jupiter-engine-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/jupiter v5.6.0/junit-jupiter-migrationsupport-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/jupiter v5.6.0/junit-jupiter-params-5.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-commons-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-console-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-console-standalone-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-engine-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-launcher-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-reporting-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-runner-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-suite-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/platform v5.6.0/junit-platform-testkit-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/venko/JUnit/vintage v5.6.0/junit-vintage-engine-5.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
